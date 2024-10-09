@@ -6,3 +6,7 @@ console.log("Body");
 console.log("Header");
 
 console.log("this is new data");
+function greet(){
+    console.log("Hello world");
+}
+greet();
