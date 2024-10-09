@@ -10,5 +10,3 @@ function greet(){
     console.log("Hello world");
 }
 greet();
-
-console.log("Hello world by piyush");
